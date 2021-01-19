@@ -1,0 +1,12 @@
+com/kakaopay/paymoneysprinkle/domain/SprinkleEventDetailTest.java
+ com.kakaopay.paymoneysprinkle.domain.SprinkleEventDetailTest
+com/kakaopay/paymoneysprinkle/domain/SprinkleEventTest.java
+ com.kakaopay.paymoneysprinkle.domain.SprinkleEventTest
+com/kakaopay/paymoneysprinkle/controller/SprinkleControllerTest.java
+ com.kakaopay.paymoneysprinkle.controller.SprinkleControllerTest
+com/kakaopay/paymoneysprinkle/domain/TokenTest.java
+ com.kakaopay.paymoneysprinkle.domain.TokenTest
+com/kakaopay/paymoneysprinkle/PaymoneySprinkleApplicationTests.java
+ com.kakaopay.paymoneysprinkle.PaymoneySprinkleApplicationTests
+com/kakaopay/paymoneysprinkle/service/SprinkleEventServiceTest.java
+ com.kakaopay.paymoneysprinkle.service.SprinkleEventServiceTest
